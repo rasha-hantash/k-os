@@ -1,0 +1,30 @@
+{
+  "repo_id": "repo_019d0840-141f-7c15-a59c-0ddc336c588b",
+  "type": "git",
+  "init_at": "2026-03-19T22:38:30Z",
+  "init_by_email": "rasha.hantash01@gmail.com",
+  "init_by_name": "Rasha Hantash",
+  "repo_salt": "d7f8379448a35f60a10db9c363cf38c651ae77d2",
+  "endpoint": "https://sageox.ai",
+  "fingerprint": {
+    "first_commit": "d7f8379448a35f60a10db9c363cf38c651ae77d2",
+    "monthly_checkpoints": {
+      "2026-02": "d7f8379448a35f60a10db9c363cf38c651ae77d2"
+    },
+    "ancestry_samples": [
+      "d7f8379448a35f60a10db9c363cf38c651ae77d2",
+      "e42cca94f5fd8462db39e0cfd2abc6f7d7720882",
+      "b99abe419a308cd3e7e662b80bba38ff5724c026",
+      "523e5c7eb43949819104654b796497ceaab85807"
+    ],
+    "remote_hashes": [
+      "sha256:c2c242e1beb6a005072799772a7f556411a65af5b19d0f9fe49f6c92ebd13675"
+    ]
+  },
+  "team_urls": {
+    "Rasha Hantash's Team": "https://git.sageox.ai/sageox-team_fv3r5fimg0/team-context.git"
+  },
+  "urls_cached_at": "2026-03-19T22:38:31Z",
+  "version": "0.4.0",
+  "updated_at": "2026-03-19T22:38:31Z"
+}
